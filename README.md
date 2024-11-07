@@ -51,7 +51,7 @@ With **AudioStreamPlayerClipper3D**, you have full control over audio playback, 
 	chanel1.end_time = 30.0
 	audio_clipper3D.audio_channels = [chanel1]
 
-	var audio_stream: AudioStreamMP3 = load("res://assets/audios/night night.mp3")
+	var audio_stream: AudioStreamMP3 = load("res://assets/audios/audio.mp3")
 	audio_clipper3D.audio_stream = audio_stream
 
 	audio_clipper3D.volume_db = 10.0
@@ -84,7 +84,7 @@ With **AudioStreamPlayerClipper3D**, you have full control over audio playback, 
 
 ## ![Screen Shot](addons/audio_stream_player_clipper_3d/images/screen_shot_2.png)
 
-[Watch the video here](https://)
+[Watch the video here](https://www.youtube.com/watch?v=iW02oT6BncY)
 
 ## Installation
 
