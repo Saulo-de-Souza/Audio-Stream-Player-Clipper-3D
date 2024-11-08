@@ -40,7 +40,7 @@ With **AudioStreamPlayerClipper3D**, you have full control over audio playback, 
 - **play = false**
 
 ```js
-    // Exemple:
+    // Example:
 
 	var audio_clipper3D: AudioStreamPlayerClipper3D = AudioStreamPlayerClipper3D.new()
 	audio_clipper3D.use_channels = true
