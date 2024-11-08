@@ -13,7 +13,7 @@ With **AudioStreamPlayerClipper3D**, you have full control over audio playback, 
 - **Quick Testing in the Editor** – Test the audio directly in the inspector without needing to run the game, making it easier to refine your sounds.
 - **Custom Playback Order** – You can program the playback to play one audio channel at a time or play the clipped sounds in any order you prefer.
 
-## Settings Default
+## Default Settings:
 
 - **use_channels = false**
 - **alternate_channel_by_play = false**
