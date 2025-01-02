@@ -1,5 +1,5 @@
 @tool
-class_name AudioStreamPlayerClipper3D extends Node
+class_name AudioStreamPlayerClipper3D extends Node3D
 
 @export_group("Channels")
 @export var use_channels: bool = false:
